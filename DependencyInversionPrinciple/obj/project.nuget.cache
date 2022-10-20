@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PffGYIEOUXgruf+JVL3YcR2UM+X+lUTPn89eu6aKVzpzCn6AY+2Zgr3ez0zgYkq2/GUOut4OXpJgIlydxKg3LA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafaela.peres\\source\\repos\\DependencyInversionPrinciple\\DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafaela.peres\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rafaela.peres\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rafaela.peres\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\rafaela.peres\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\rafaela.peres\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\rafaela.peres\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
